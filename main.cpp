@@ -1,11 +1,19 @@
-/*  Event interrupt example
-*   Operate an Red LED using an event interrupt. 
+/*	Event_Triggered_LED
+*	====================
 *
-*   Board: NUCLEO L476RG
-*   Author: Dr Craig Evans
-*	Editied: Andrew Knowles 2022
-*	MBED OS: 6.14
-*/
+*	Function:               Preform an ISR upon the detection of an event (a button press)
+*	Circuit Schematic No.:  2 : https://github.com/ELECXJEL2645/Circuit_Schematics
+*	Required Libraries:     
+*
+*	Authored by:            Dr Craig Evans
+*	Date:                   
+*	Collaberators:          Andrew Knowles
+*				Dr Tim Amsdon
+*	Version:                1.0
+*	Revision Date:          06/2022 
+*	MBED Studio Version:    1.4.1
+*	MBED OS Version:        6.12.0
+*	Board:	                NUCLEO L476RG	*/
  
 #include "mbed.h"
  
