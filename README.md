@@ -1,5 +1,5 @@
-Event triggered interrupt
-=========================
+Event_Triggered_LED
+====================
 
 Function:               Preform an ISR upon the detection of an event (a button press)
 Circuit Schematic No.:  2 : https://github.com/ELECXJEL2645/Circuit_Schematics
